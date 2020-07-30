@@ -1,2 +1,2 @@
 a = input("Insert what's on your mind: ")
-print(a)
+print("You say: " + a)
