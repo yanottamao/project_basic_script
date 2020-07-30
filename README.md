@@ -21,7 +21,7 @@ References taken from [w3school](https://www.w3schools.com/cpp/default.asp)
 
 ##### To Do Lists
 
-- [ ] Print
+- [x] Print
 - [ ] Input
 - [ ] Function
 - [ ] Soon
