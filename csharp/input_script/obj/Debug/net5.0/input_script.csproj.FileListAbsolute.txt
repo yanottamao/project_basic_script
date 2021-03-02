@@ -1,0 +1,16 @@
+D:\projectsfolder\project_basic_script\csharp\input_script\bin\Debug\net5.0\input_script.exe
+D:\projectsfolder\project_basic_script\csharp\input_script\bin\Debug\net5.0\input_script.deps.json
+D:\projectsfolder\project_basic_script\csharp\input_script\bin\Debug\net5.0\input_script.runtimeconfig.json
+D:\projectsfolder\project_basic_script\csharp\input_script\bin\Debug\net5.0\input_script.runtimeconfig.dev.json
+D:\projectsfolder\project_basic_script\csharp\input_script\bin\Debug\net5.0\input_script.dll
+D:\projectsfolder\project_basic_script\csharp\input_script\bin\Debug\net5.0\ref\input_script.dll
+D:\projectsfolder\project_basic_script\csharp\input_script\bin\Debug\net5.0\input_script.pdb
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.csprojAssemblyReference.cache
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.AssemblyInfoInputs.cache
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.AssemblyInfo.cs
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.csproj.CoreCompileInputs.cache
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.dll
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\ref\input_script.dll
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.pdb
+D:\projectsfolder\project_basic_script\csharp\input_script\obj\Debug\net5.0\input_script.genruntimeconfig.cache
